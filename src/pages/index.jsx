@@ -5,7 +5,7 @@ import Contact from '../screens/Contact';
 const Index = () => (
     <>
         <Head>
-            <title>Methora Theme</title>
+            <title>Next Js, Tailwind Css Boilerplate - Confetti Themes</title>
             <link rel="icon" href="/favicon.ico" />
         </Head>
         <Home />
