@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40MichaelDepp)](https://twitter.com/_michaeldepp)
 
-This is Boilerplate is built using [Next.js V.12](https://nextjs.org/), with [**Tailwind Css**](https://tailwindcss.com/), developed by [**Michael Depp**](https://github.com/MichaelDepp). The boilerplate is live hosted at [**Vercel**](https://vercel.com)
+This is Boilerplate is built using [Next.js V12](https://nextjs.org/), with [**Tailwind Css V3**](https://tailwindcss.com/), developed by [**Michael Depp**](https://github.com/MichaelDepp). The boilerplate is live hosted at [**Vercel**](https://vercel.com)
 
 ## 🏟️ Deployed Link at Vercel
 
