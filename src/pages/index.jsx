@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Home from '../screens/Home';
-import Contact from '../screens/Contact';
 
 const Index = () => (
     <>
@@ -9,7 +8,6 @@ const Index = () => (
             <link rel="icon" href="/favicon.ico" />
         </Head>
         <Home />
-        <Contact />
     </>
 );
 
