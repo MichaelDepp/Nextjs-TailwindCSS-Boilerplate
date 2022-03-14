@@ -4,6 +4,7 @@ module.exports = {
         './src/screens/**/*.{js,ts,jsx,tsx}',
         './src/components/**/*.{js,ts,jsx,tsx}'
     ],
+    darkMode: 'class',
     theme: {
         fontSize: {
             xs: '0.75rem',
