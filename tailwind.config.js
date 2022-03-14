@@ -36,7 +36,8 @@ module.exports = {
                 theme: {
                     primary: '#6732ff',
                     secondary: '#191919',
-                    bg: '#101010'
+                    bg: '#101010',
+                    lightBg: '#fefefe'
                 },
                 gray: {
                     100: '#f7fafc',
