@@ -12,6 +12,7 @@ This is Boilerplate is built using [Next.js V12](https://nextjs.org/), with [**T
 
 -   ✔️ Used React's high performing framework Next Js
 -   ✔️ Used functional components only
+-   ✔️ Added dark mode / light mode option for the entire app
 -   ✔️ Used Prettier for strict code formatting
 -   ✔️ Used ESLint for strict coding and committing
 -   ✔️ Added the Configuration for PWA
