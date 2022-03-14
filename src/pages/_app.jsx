@@ -1,4 +1,5 @@
 import '../styles/global.css';
+import { ThemeProvider } from 'next-themes';
 import Head from 'next/head';
 
 function MyApp({ Component, pageProps }) {
@@ -7,7 +8,9 @@ function MyApp({ Component, pageProps }) {
             <Head>
                 <title>Confetti Tailwind Next Template</title>
             </Head>
-            <Component {...pageProps} />
+            <ThemeProvider attribute="class">
+                <Component {...pageProps} />
+            </ThemeProvider>
         </>
     );
 }
