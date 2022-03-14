@@ -6,7 +6,7 @@ This is Boilerplate is built using [Next.js V12](https://nextjs.org/), with [**T
 
 ## 🏟️ Deployed Link at Vercel
 
-[**https://dynamic-builder.vercel.app/**](https://dynamic-builder.vercel.app/)
+[**https://nextjs-tailwind-css-boilerplate.vercel.app/**](https://nextjs-tailwind-css-boilerplate.vercel.app/)
 
 ## 🔋🙆‍♂️ Development Check
 
