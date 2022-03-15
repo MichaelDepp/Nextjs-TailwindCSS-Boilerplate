@@ -5,7 +5,7 @@ import ProfileBlob from '../../components/ProfileBlob';
 const Home = () => {
     return (
         <Container>
-            <h1 className="mt-12 p-4 text-center text-xl text-theme-primary font-bold">
+            <h1 className="pt-16 p-4 text-center text-2xl text-theme-primary font-bold">
                 This is a boilerplate with Next.js, Tailwind CSS
             </h1>
             <div className="mt-28 lg:mt-80 flex justify-center">
