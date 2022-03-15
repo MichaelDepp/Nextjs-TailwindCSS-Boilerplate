@@ -33,12 +33,16 @@ const HeaderBar = () => {
             </div>
             <Drawer isOpen={isOpen} setIsOpen={setOpen}>
                 <div>
-                    <h1 className="p-4 text-center text-xl text-theme-primary font-bold">About</h1>
-                    <h1 className="p-4 text-center text-xl text-theme-primary font-bold">
+                    <h1 className="p-4 text-center text-2xl text-theme-primary font-black">
+                        About
+                    </h1>
+                    <h1 className="p-4 text-center text-2xl text-theme-primary font-black">
                         Portfolio
                     </h1>
-                    <h1 className="p-4 text-center text-xl text-theme-primary font-bold">Skills</h1>
-                    <h1 className="p-4 text-center text-xl text-theme-primary font-bold">
+                    <h1 className="p-4 text-center text-2xl text-theme-primary font-black">
+                        Skills
+                    </h1>
+                    <h1 className="p-4 text-center text-2xl text-theme-primary font-black">
                         Contact
                     </h1>
                 </div>
